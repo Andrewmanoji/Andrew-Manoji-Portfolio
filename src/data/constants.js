@@ -394,19 +394,19 @@ export const projects = [
     github: "https://github.com/Andrewmanoji/Todo-List",
     webapp: "https://andrew-todo-list.netlify.app/",
   },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  // },
+  {
+    id: 7,
+    title: "Weather App",
+    // date: "Dec 2020 - Jan 2021",
+    description:
+      "The React Weather App is a web application that allows users to check the current weather conditions for a specific city. The app leverages the OpenWeatherMap API to fetch real-time weather data and displays essential information such as temperature, weather description, and location.",
+    image:
+      "https://github.com/Andrewmanoji/Simple-React-Weather-App/blob/main/src/Components/Assets/Screenshot%202023-12-19%20191518.png?raw=true",
+    tags: ["React JS", "Bootstrap", "OpenWeatherMap API"],
+    category: "web app",
+    github: "https://github.com/Andrewmanoji",
+    webapp: "https://weather-app-nu-one-71.vercel.app/",
+  },
   // {
   //   id: 8,
   //   title: "Face Recognition",
