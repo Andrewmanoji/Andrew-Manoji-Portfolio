@@ -10,7 +10,7 @@ export const Bio = {
     "I am an enthusiastic and adaptable individual, consistently seeking out new challenges. Fueled by a genuine passion for continuous learning, I am committed to delivering top-notch results. ",
   github: "https://github.com/Andrewmanoji",
   resume:
-    "https://drive.google.com/file/d/1k8ZXqXkV_G0aphLSkDckDp7lfWQlpxma/view?usp=sharing",
+    "https://drive.google.com/file/d/13uTVDtWHkd39PuEuPkorQyMN3L-Org8t/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/andrew-manoji-088856184/",
   // twitter: "https://twitter.com/RishavChanda",
   insta: "https://instagram.com/__.a.n.d.r.e.w.z.__?igshid=OGQ5ZDc2ODk2ZA==",
